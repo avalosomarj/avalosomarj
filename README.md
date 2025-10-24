@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](https://raw.githubusercontent.com/avalosomarj/avalosomarj/main/github-header-banner.png)
 
 ### 📝 Sobre Mí:
 🧑‍💻 Desarrollador Full Stack con experiencia en crear aplicaciones web escalables, intuitivas y enfocadas en la experiencia del usuario.<br>📈 Más de 1 año en desarrollo web y más de 10 años en IT, combinando conocimientos en tecnología, electrónica y redes para aportar soluciones eficientes desde el primer día.<br>🎯 Formación en UX/UI y nociones de DevOps, lo que me permite participar en todo el ciclo de desarrollo, desde el diseño hasta la implementación y despliegue.<br>🌐 Busco proyectos y oportunidades remotas donde pueda seguir creciendo, aportar valor y desarrollar productos con impacto real.
